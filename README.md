@@ -8,6 +8,8 @@ Uses https://threejs.org/ and its addons.
 
 Tested on Windows 10 / Google Chrome browser (Version 108.0.5359.125 64-bit)
 
+![Example map view](https://github.com/rastislavsenderak/war-facts-galaxy-map-viewer/blob/main/tuson-galaxy-example.gif)
+
 ## How to Install
 Just download or clone or copy to some local dir. It's just 3 files, really:
 * index.html - html and javascript code
