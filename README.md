@@ -1,5 +1,5 @@
 # war-facts-galaxy-map-viewer
-3D galaxy map viewer for www.war-facts.com game
+3D galaxy map viewer for www.war-facts.com game as *"one-html-file"* demo.
 
 This is a "technical demo" or "proof-of-concept" for viewing 3D galaxy map of Warring Factions game (https://www.war-facts.com/).
 It is not my intention to replace in-game map, just to add overall/global (static) view for whole galaxy (or galaxies) as a strategic view with enhanced visualisation of exploration info (explored/unexplored, my/ally/enemy colonies etc).
